@@ -27,7 +27,7 @@
 [<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="30"/> ](https://www.netlify.com/) 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> ](https://www.figma.com)
 [<img src="https://cdn.worldvectorlogo.com/logos/chatgpt-1.svg" alt="open ai" width="45" height="35"/> ](https://openai.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="70" height="35"/> ](https://gemini.google.com/app)
+[<img src="https://raw.githubusercontent.com/NX211/homer-icons/7f15a0ec749f4604b9f18e5bd4ee955002d8c896/svg/google-gemini.svg" alt="gemini" width="70" height="35"/> ](https://gemini.google.com/app)
 
 ### Environment
 [<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/cursor.svg" alt="cursor" width="30" height="30"/> ](https://antigravity.google/) 
