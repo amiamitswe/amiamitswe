@@ -35,6 +35,7 @@
 [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="30"/> ](https://github.com/) 
 
 ### Operating System
+[<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
 [<img src="http://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" alt="mac os" width="30" height="30"/> ](https://www.apple.com/macos/monterey/) 
 [<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/> ](https://ubuntu.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/> ](https://www.microsoft.com/en-us/windows) 
