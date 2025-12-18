@@ -30,8 +30,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="70" height="35"/> ](https://gemini.google.com/app)
 
 ### Environment
-[<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/cursor.svg" alt="cursor" width="40" height="30"/> ](https://antigravity.google/) 
-[<img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" alt="antigravity" width="40" height="30"/> ](https://cursor.com/) 
+[<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/cursor.svg" alt="cursor" width="30" height="30"/> ](https://antigravity.google/) 
+[<img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/google-antigravity-logo-icon.png" alt="antigravity" width="30" height="30"/> ](https://cursor.com/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="xd" width="40" height="30"/> ](https://www.jetbrains.com/webstorm/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublimetext" width="30" height="30"/> ](https://www.sublimetext.com/) 
