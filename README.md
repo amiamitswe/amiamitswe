@@ -15,7 +15,7 @@
 [<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="expressjs" width="35" height="30" background="#fff"/> ](https://expressjs.com/) 
 [<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="30"/> ](https://www.mongodb.com/) 
 [<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="30"/> ](https://www.graphql-js.org/) 
-[<img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql" width="40" height="30"/> ](https://www.apollographql.com/) 
+[<img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql" width="30" height="30" background="#fff"/> ](https://www.apollographql.com/) 
 [<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="30"/> ](https://www.w3.org/html) 
 [<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="30"/> ](https://www.w3schools.com/css) 
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/>](https://tailwindcss.com) 
