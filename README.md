@@ -50,7 +50,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Stackoverflow][stackoverflow-shield]][stackoverflow-url]
 
-
 like `javascript` , `nodejs` and `sleeping`.
 
 started with php, but now working with js
