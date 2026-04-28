@@ -1,97 +1,127 @@
-### 💎 Hi, I am Amit Samadder (Abir)
+<!-- Header -->
+<div align="center">
 
-### Languages and Tools:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Amit+Samadder+(Abir);Frontend+Developer+%7C+React+%26+Next.js;6.5%2B+Years+of+Experience;Building+Beautiful+Web+Experiences)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="30"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="30" height="30"/></a>
-  <a href="https://reactjs.org"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="30"/></a>
-  <a href="https://nextjs.org/"><img src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" alt="nextjs" width="30" height="30"/></a>
-  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/></a>
-  <a href="https://jotai.org/"><img src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="jotai" width="40" height="30"/></a>
-  <a href="https://nodejs.org"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/></a>
-  <a href="https://expressjs.com/"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="expressjs" width="35" height="30"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="30"/></a>
-  <a href="https://www.graphql-js.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="30"/></a>
-  <a href="https://www.apollographql.com/"><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql" width="30" height="30"/></a>
-  <a href="https://www.w3.org/html"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="30"/></a>
-  <a href="https://www.w3schools.com/css"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="30"/></a>
-  <a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="30"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="37" height="30"/></a>
-  <a href="https://sass-lang.com"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="30"/></a>
-  <a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="30"/></a>
-  <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="30"/></a>
-  <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/></a>
-  <a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="30"/></a>
-  <a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/></a>
-  <a href="https://openai.com/"><img src="https://cdn.worldvectorlogo.com/logos/chatgpt-1.svg" alt="open ai" width="45" height="35"/></a>
-  <a href="https://gemini.google.com/app"><img src="https://raw.githubusercontent.com/NX211/homer-icons/7f15a0ec749f4604b9f18e5bd4ee955002d8c896/svg/google-gemini.svg" alt="gemini" width="70" height="35"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/amiamitswe)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amiamitswe)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8791843/a-s-abir)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/amiamitswe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amiamitswe)
 
-### Environment
+</div>
 
-<p>
-  <a href="https://cursor.com/"><img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/64x64/apps/cursor.svg" alt="cursor" width="30" height="30"/></a>
-  <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="Visual Studio Code" width="40" height="30"/></a>
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="30"/></a>
-  <a href="https://www.sublimetext.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Breezeicons-apps-48-sublime-text.svg" alt="sublimetext" width="30" height="30"/></a>
-  <a href="https://www.mongodb.com/products/compass"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb compass" width="40" height="30"/></a>
-  <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="30"/></a>
-</p>
+---
 
-### Operating System
+### 🧑‍💻 About Me
 
-<p>
-  <a href="https://www.apple.com/os/macos/"><img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="mac os" width="30" height="30"/></a>
-  <a href="https://ubuntu.com/"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="linux ubuntu" width="40" height="30"/></a>
-  <a href="https://www.microsoft.com/en-us/windows"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="30" height="30"/></a>
-</p>
-
-### Connect with me
-[![Github][github-shield]][github-url]
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Stackoverflow][stackoverflow-shield]][stackoverflow-url]
-
-like `javascript` , `nodejs` and `sleeping`.
-
-started with php, but now working with js
-
-```diff
-   "aboutMySelf": {
-+    "name": "Amit Samadder",
-+    "nickName": "Abir",
-+    "whereFrom": "Bangladesh"
-+    "bscForm": "Daffodil International University",
-+    "liveIn": "Dhaka, Bangladesh",
--    "badHabit": "a lot of, can't describe",
--    "preProgrammingLanguage": "php"
-+    "lovedProgrammingLanguage": "javascript"
-   },
-```
-
-```bash
-const areYouAlive = (response: boolean): string => {
-  let answer;
-  if (response) answer = 'yes I am still Alive';
-  else answer = "No, you are talking with Amit's Ghost";
-  return answer;
+```javascript
+const amit = {
+  name: "Amit Samadder",
+  nickname: "Abir",
+  location: "Dhaka, Bangladesh",
+  education: "BSc from Daffodil International University",
+  role: "Frontend Developer",
+  experience: "6.5+ years",
+  languages: ["JavaScript", "TypeScript"],
+  funFact: "Started with PHP, now I live in the JS ecosystem"
 };
 ```
 
-> console.log(areYouAlive(true))
-<br/>
+---
 
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiamitswe&count_private=true&show_icons=true&theme=dark)](https://github.com/amiamitswe) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact&theme=dark)](https://github.com/amiamitswe)
+### 🛠️ Tech Stack
 
-[stackoverflow-shield]: https://img.shields.io/badge/stackoverflow-%20-555?color=555&&logo=stackoverflow&logoColor=white&style=flat-square
-[stackoverflow-url]: https://stackoverflow.com/users/8791843/a-s-abir
-[github-shield]: https://img.shields.io/badge/github-%20-555?color=555&&logo=github&logoColor=white&style=flat-square
-[github-url]: https://github.com/amiamitswe
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/amiamitswe
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/amiamitswe
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://bd.linkedin.com/in/amiamitswe
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjx0ZXh0IHg9IjAiIHk9IjIwIiBmb250LXNpemU9IjIwIj7wn5GLPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=flat&logo=reacttable&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-000000?style=flat&logo=vercel&logoColor=white)
+
+**Database & Services**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Zoom SDK](https://img.shields.io/badge/Zoom_SDK-0B5CFF?style=flat&logo=zoom&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+### 💻 Workspace
+
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+### 🤖 AI Tools
+
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D4A574?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amiamitswe&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=amiamitswe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiamitswe&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amiamitswe&color=6C63FF&style=flat-square&label=Profile+Views)
+
+*Thanks for visiting! Feel free to connect with me.* ✨
+
+</div>
